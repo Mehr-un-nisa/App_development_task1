@@ -4,4 +4,5 @@ A new Flutter project.
 
 ## Getting Started
 
-A simple  app that takes input and checks whether it is prime or composite.
+- A simple  app that takes input
+- checks whether the input entered is  prime number or composite.
